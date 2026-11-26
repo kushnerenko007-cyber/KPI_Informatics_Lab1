@@ -64,9 +64,6 @@ int main()
     printf("Vvedit otsinku za predmet No4: ");
     scanf("%d", &grade4);
     
-    printf("Vvedit otsinku za predmet No5: ");
-    scanf("%d", &grade5);
-    
     printf("Vvedit sviy vik: ");
     scanf("%u", &age);
 
