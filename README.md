@@ -94,6 +94,9 @@ int main()
 
     return 0;
 }
+
+---
+
 ## 4. Результати виконання <img width="1112" height="626" alt="image" src="https://github.com/user-attachments/assets/3c9470fa-2ad4-4403-ba9a-cb8b541042a6" />
 ## 5. Висновки
 Під час виконання лабораторної роботи №1
